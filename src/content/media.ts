@@ -31,7 +31,7 @@ export const media = {
     heroPoster: fallbackImage,
     heroLabel: "YOUR_POSTER_URL",
     clientResults: [
-      video(videoUrl("15.mp4"), "PROJECT_01_MEDIA_URL"),
+      video(videoUrl("11.mp4"), "PROJECT_01_MEDIA_URL"),
       video(videoUrl("7.mp4"), "PROJECT_02_MEDIA_URL"),
       video(videoUrl("3.mp4"), "PROJECT_03_MEDIA_URL"),
     ],
